@@ -3,4 +3,17 @@ manual de usuario
 ++++++++++++++++++++++++++++++++++++++++++++++++
 manual de usuario
 ++++++++++++++++++++++++++++++++++++++++++++++++++
- 
+ ala ora de ejecurar el programa te aparesera este menu
+Menú:
+1. Mostrar Inventario
+2. Realizar Venta
+3. Generar Pedido
+4. Mostrar Facturación
+5. Registrar Proveedor
+6. Mostrar Proveedores
+7. Registrar Producto
+0. Salir
+Ingrese su opción: 
+del cual enteroria deberas registras la opccion 7 si esprimera ves ejecutandolo para registrar los juegetes 
+dexpues podras realisar una venta el cual esta en la opcion 2 la cual te solicitar el nombre del producto nombre del cliente direccion  monto a pagar
+//no terminado todabia poner mas 
